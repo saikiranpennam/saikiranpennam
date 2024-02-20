@@ -17,8 +17,6 @@
 
 - 📫 How to reach me **spennam@colostate.edu**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1L8EwOfRyKelGEEsSE7qU_gF4Ws6tD_hO/view?usp=sharing](https://drive.google.com/file/d/1L8EwOfRyKelGEEsSE7qU_gF4Ws6tD_hO/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saipennam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saipennam" height="30" width="40" /></a>
