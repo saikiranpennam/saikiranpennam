@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikiranpennam" alt="saikiranpennam" /></a> </p>
 
-- 🔭 I’m currently working on **Hyperspectral Imaging**
+- 🔭 I’m currently working on **High dimensional data and Image processing techniques**
 
 - 🌱 I’m currently learning **PyTorch, PostgreSQL, and AWS**
 
-- 👯 I’m looking to collaborate on **Game Development and Design**
+- 👯 I’m looking to collaborate on **Computer Vision and Software Development**
 
 - 👨‍💻 All of my projects are available at [github.com/saikiranpennam](github.com/saikiranpennam)
 
-- 💬 Ask me about **Machine Learning, Computer Vision**
+- 💬 Ask me about **Machine Learning, Computer Vision, Data Pipelines**
 
-- 📫 How to reach me **spennam@colostate.edu**
+- 📫 How to reach me **saikiran.pennam@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
