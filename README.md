@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sai Pennam</h1>
-<h3 align="center">Aspiring Machine Learning Engineer</h3>
+<h1 align="center">Hi 👋, I'm Sai Kiran Pennam</h1>
+<h3 align="center">Aspiring Computer Vision/Machine Learning Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saikiranpennam&label=Profile%20views&color=0e75b6&style=flat" alt="saikiranpennam" /> </p>
 
