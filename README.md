@@ -1,16 +1,16 @@
-# Hi 👋, I'm Sai Kiran Pennam
+# Hi 👋, I'm Sai 
 
 ### Aspiring Machine Learning Engineer
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikiranpennam" alt="saikiranpennam" /></a> </p> -->
 
-- 🔭 I'm currently working on **a monitoring pipeline and contributing to OSS projects in generative ai**
+- 🔭 I'm currently working on **Cyber Security project and Generative AI**
 
-- 🌱 I'm currently learning **AI Engineering, AI Serving & Inference**
+- 🌱 I'm currently learning **LLM Inference & Mechanistic Interpretability**
 
-- 👯 I'm looking to collaborate on **gemini-cli and other command-line tools and projects associated with generative ai**
+- 👯 I'm looking to collaborate on **projects associated with generative ai**
 
-- 🤝 I'm looking for help with **backend projects, AI for cybersecurity, computer vision, mlops**
+- 🤝 I'm looking for help with **backend projects, AI for cybersecurity, computer vision, MLOps**
 
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, Computer Vision**
 
