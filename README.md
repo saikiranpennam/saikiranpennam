@@ -1,18 +1,18 @@
 # Hi 👋, I'm Sai 
 
-### Aspiring Machine Learning Engineer
+### Aspiring AI Safety Researcher
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saikiranpennam" alt="saikiranpennam" /></a> </p> -->
 
 - 🔭 I'm currently working on **Cyber Security project and Generative AI**
 
-- 🌱 I'm currently learning **LLM Inference & Mechanistic Interpretability**
+- 🌱 I'm currently learning **LLMs, Mechanistic Interpretability, Computer Vision**
 
-- 👯 I'm looking to collaborate on **projects associated with generative ai**
+- 👯 I'm looking to collaborate on **projects associated with Computer Vision, Multimodality, Information Processing Systems**
 
-- 🤝 I'm looking for help with **backend projects, AI for cybersecurity, computer vision, MLOps**
+- 🤝 I'm looking for help with **AI for CyberSecurity & Safety, Computer Vision, and Observability**
 
-- 💬 Ask me about **Python, Machine Learning, Deep Learning, Computer Vision**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning, Computer Vision, AI Safety, AI for CyberSecurtiy**
 
 - 📫 How to reach me **saikiran.pennam@icloud.com**
 
